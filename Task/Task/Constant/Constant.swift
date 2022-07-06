@@ -1,9 +1,3 @@
-//
-//  Constant.swift
-//  Task
-//
-//  Created by Sivasankar on 05/07/22.
-//
 
 import Foundation
 
